@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eixno.github.io/yzo/sitemap.yzo.gz
